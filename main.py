@@ -9,4 +9,5 @@ while True:
             print("Error: La cantidad debe ser un numero entero positivo")
     except ValueError:
         print("Error: La cantidad debe ser un numero entero positivo")
+#REGISTRO DE CALIFICACIONES
 
