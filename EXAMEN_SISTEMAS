@@ -1,0 +1,10 @@
+#ingreso de cantidad 
+while true:
+try:
+cantidad = int(imput("IGRESE CANTIDAD DE ALUMNOS": ))
+if cantidad > 0:
+break
+else: 
+print("Error: La cantidad debe se un numero entero positivo")
+except ValueError:
+print("Error: La cantidad debe se un numero entero positivo")
